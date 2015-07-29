@@ -1,0 +1,4143 @@
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from require at script/rails:6)
+
+
+Started GET "/" for ::1 at 2015-07-28 21:45:30 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 1009ms (Views: 1008.9ms)
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 21:45:31 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:46:03 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 812ms (Views: 812.4ms)
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:46:04 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:46:42 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 10ms (Views: 10.1ms)
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:46:42 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:52:55 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (1.1ms)
+  Rendered shared/_header.html.erb (1.8ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.7ms)
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:52:55 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:53:10 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.1ms)
+Completed 200 OK in 13ms (Views: 13.2ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:53:10 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:53:11 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:53:11 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:53:11 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:53:11 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:53:11 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:53:11 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:53:11 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:53:11 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:53:11 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:53:50 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (1.1ms)
+  Rendered shared/_header.html.erb (1.7ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 12ms (Views: 12.1ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:53:50 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:54:24 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (1.2ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 12ms (Views: 11.6ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:54:24 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:54:34 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (1.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 11.2ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:54:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:54:35 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:54:35 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:55:50 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.6ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:55:50 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:56:38 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.5ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:56:38 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:56:53 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.8ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:56:53 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:57:38 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_header.html.erb (1.8ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 15ms (Views: 15.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:57:38 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:57:48 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_header.html.erb (1.6ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.8ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:57:48 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:58:08 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.6ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 11.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:58:08 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 21:59:23 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (1.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 12ms (Views: 12.1ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 21:59:23 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 22:00:30 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.8ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:00:30 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 22:01:28 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 11.4ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:01:28 -0600
+
+
+Started GET "/cerulean" for ::1 at 2015-07-28 22:01:35 -0600
+Processing by PagesController#cerulean as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.7ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 798ms (Views: 797.8ms)
+
+
+Started GET "/assets/cerulean.css?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/cerulean/loader.css?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/cerulean/bootswatch.css?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/cerulean/loader.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/cerulean/bootswatch.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/cerulean.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:01:36 -0600
+
+
+Started GET "/united" for ::1 at 2015-07-28 22:01:42 -0600
+Processing by PagesController#united as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.7ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 838ms (Views: 837.9ms)
+
+
+Started GET "/assets/united.css?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/united/loader.css?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/united/bootswatch.css?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/united/loader.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/united/bootswatch.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/united.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:01:43 -0600
+
+
+Started GET "/paper" for ::1 at 2015-07-28 22:02:29 -0600
+Processing by PagesController#paper as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 833ms (Views: 832.6ms)
+
+
+Started GET "/assets/paper.css?body=1" for ::1 at 2015-07-28 22:02:29 -0600
+
+
+Started GET "/assets/paper/loader.css?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/paper/bootswatch.css?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/paper/loader.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/paper/bootswatch.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/paper.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:02:30 -0600
+
+
+Started GET "/simplex" for ::1 at 2015-07-28 22:02:33 -0600
+Processing by PagesController#simplex as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 833ms (Views: 832.6ms)
+
+
+Started GET "/assets/simplex.css?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/simplex/loader.css?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/simplex/bootswatch.css?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/simplex/loader.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/simplex/bootswatch.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/simplex.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:02:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:02:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:02:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:02:34 -0600
+
+
+Started GET "/united" for ::1 at 2015-07-28 22:02:37 -0600
+Processing by PagesController#united as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:02:37 -0600
+
+
+Started GET "/assets/united.css?body=1" for ::1 at 2015-07-28 22:02:37 -0600
+
+
+Started GET "/assets/united/loader.css?body=1" for ::1 at 2015-07-28 22:02:37 -0600
+
+
+Started GET "/assets/united/bootswatch.css?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/united/loader.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/united/bootswatch.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/assets/united.js?body=1" for ::1 at 2015-07-28 22:02:38 -0600
+
+
+Started GET "/readable" for ::1 at 2015-07-28 22:02:40 -0600
+Processing by PagesController#readable as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.7ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 833ms (Views: 832.9ms)
+
+
+Started GET "/assets/readable.css?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/readable/loader.css?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/readable/bootswatch.css?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/readable/loader.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/readable/bootswatch.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/readable.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:02:41 -0600
+
+
+Started GET "/cyborg" for ::1 at 2015-07-28 22:02:44 -0600
+Processing by PagesController#cyborg as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 978ms (Views: 977.5ms)
+
+
+Started GET "/assets/cyborg.css?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/cyborg/loader.css?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/cyborg/bootswatch.css?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/cyborg/loader.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/cyborg/bootswatch.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/cyborg.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:02:45 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:02:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:02:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:02:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:02:46 -0600
+
+
+Started GET "/yeti" for ::1 at 2015-07-28 22:02:56 -0600
+Processing by PagesController#yeti as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 738ms (Views: 737.9ms)
+
+
+Started GET "/assets/yeti.css?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/yeti/loader.css?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/yeti/bootswatch.css?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/yeti/loader.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/yeti/bootswatch.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/yeti.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:02:57 -0600
+
+
+Started GET "/readable" for ::1 at 2015-07-28 22:03:18 -0600
+Processing by PagesController#readable as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.1ms)
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/readable.css?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/readable/loader.css?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/readable/bootswatch.css?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/readable/loader.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/readable/bootswatch.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/assets/readable.js?body=1" for ::1 at 2015-07-28 22:03:18 -0600
+
+
+Started GET "/slate" for ::1 at 2015-07-28 22:03:55 -0600
+Processing by PagesController#slate as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 901ms (Views: 901.3ms)
+
+
+Started GET "/assets/slate.css?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/slate/loader.css?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/slate/bootswatch.css?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/slate/loader.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/slate/bootswatch.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/slate.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:03:56 -0600
+
+
+Started GET "/slate" for ::1 at 2015-07-28 22:04:28 -0600
+Processing by PagesController#slate as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.7ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.3ms)
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/slate.css?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/slate/loader.css?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/slate/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/slate/loader.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/slate/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/assets/slate.js?body=1" for ::1 at 2015-07-28 22:04:28 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:04:31 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.4ms)
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:04:31 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:04:32 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 9.8ms)
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:04:32 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 22:04:36 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 19ms (Views: 19.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:36 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:04:37 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.8ms)
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:04:37 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:04:39 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.3ms)
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:04:39 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:04:40 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.6ms)
+  Rendered shared/_footer.html.erb (0.1ms)
+Completed 200 OK in 12ms (Views: 11.5ms)
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:04:40 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:04:41 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.7ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 11.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:41 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:04:46 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (1.6ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 11.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:46 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:04:49 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (2.2ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 15ms (Views: 15.2ms)
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:49 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:04:52 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (2.1ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 15ms (Views: 14.7ms)
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:52 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 22:04:57 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (2.1ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 13ms (Views: 12.5ms)
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:57 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:04:58 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 12ms (Views: 11.4ms)
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:04:58 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 22:05:22 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:05:22 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:05:40 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.1ms)
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:05:40 -0600
+
+
+Started GET "/superhero" for ::1 at 2015-07-28 22:08:36 -0600
+Processing by PagesController#superhero as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.5ms)
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/superhero/loader.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/superhero/bootswatch.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/superhero.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/superhero.css?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/superhero/loader.css?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/superhero/bootswatch.css?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:08:36 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:08:46 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:08:46 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:09:17 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.6ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 12ms (Views: 11.7ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:09:17 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:10:34 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:10:34 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:10:38 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.5ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:10:38 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:11:25 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 10.3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:11:25 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:11:28 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:11:28 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:11:39 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 12ms (Views: 11.6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:11:39 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:11:40 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:11:40 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:11:42 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:11:42 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:12:22 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:12:22 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:12:28 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:12:28 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:12:29 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:12:29 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:13:26 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.8ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.9ms)
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:13:26 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:13:28 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 10.6ms)
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:13:28 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:14:15 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.8ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.5ms)
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:14:15 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:14:33 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.8ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 11ms (Views: 10.7ms)
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:14:33 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:15:01 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 10.3ms)
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:15:01 -0600
+
+
+Started GET "/" for ::1 at 2015-07-28 22:15:06 -0600
+Processing by PagesController#default as HTML
+  Rendered pages/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 9.9ms)
+
+
+Started GET "/assets/default.css?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/default/loader.css?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/default/bootswatch.css?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/jquery.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/transition.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/alert.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/button.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/carousel.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/collapse.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/modal.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/popover.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/tab.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/twitter/bootstrap/affix.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/default/loader.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/default/bootswatch.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
+
+
+Started GET "/assets/default.js?body=1" for ::1 at 2015-07-28 22:15:06 -0600
