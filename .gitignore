@@ -16,3 +16,9 @@
 !/log/.keep
 /tmp
 tmp
+log/
+tmp/**/*
+log
+tmp
+log
+.project
