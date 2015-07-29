@@ -1,0 +1,12 @@
+# Sample localization file for Spanish. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+es:
+  hello: "Hola Mundo"
+  home: "Inicio"
+  contact: "Contactenos"
+  about: "Conozcanos"
+  credit_learnig: "Aprendiendo Finanzas"
+  themes: "Temas"
+  default: "Por Defecto"
+  back_to_top: "Ir arriba"

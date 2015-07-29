@@ -3,3 +3,10 @@
 
 en:
   hello: "Hello world"
+  home: "Home"
+  contact: "Contact"
+  about: "About"
+  credit_learnig: "Credit Learning"
+  themes: "Themes"
+  default: "Default"
+  back_to_top: "Back to top"

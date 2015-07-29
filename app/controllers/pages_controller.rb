@@ -1,5 +1,4 @@
 class PagesController < ApplicationController
-
   def default
     render :index
   end
