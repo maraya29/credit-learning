@@ -5,15 +5,31 @@
 #
 #   cities = City.create([{ :name => 'Chicago' }, { :name => 'Copenhagen' }])
 #   Mayor.create(:name => 'Daley', :city => cities.first)
-if User.count == 0
-  user = User.new({
-    :first_name            => 'Admin',
-    :last_name             => 'User',
-    :email                 => 'maraya@growthaccelerationpartners.com',
-    :password              => 'bar-b-queue',
-    :password_confirmation => 'bar-b-queue',
-    :default_theme         => 'Superhero'
-  })
+email='maraya@growthaccelerationpartners.com'
+user = User.where(:email => email).first || User.new
+user.attributes = {
+  :first_name            => 'Admin',
+  :last_name             => 'User',
+  :email                 => email,
+  :password              => 'bar-b-queue',
+  :password_confirmation => 'bar-b-queue',
+  :default_theme         => 'superhero',
+  :role                  => Role.find_by_name('Administrator')
+}
+user.save(validate: false)
 
-  user.save(validate: false)
-end
+#features
+role_feature_name = 'Administration'
+role_feature = RoleFeature.where(:name => role_feature_name).first || RoleFeature.new(:name => role_feature_name)
+puts role_feature.save ? "Role feature loaded: #{role_feature_name}" : "Role load failed: #{role_feature_name}"
+
+#roles
+role_name = "Administrator"
+role = Role.find_by_name(role_name) || Role.new
+role.attributes = {
+  :name        => role_name,
+  :description => role_name,
+  :super_user  => true
+}
+puts role.save ? "Role loaded: #{role_name}" : "Role load failed: #{role_name}"
+role.add_feature('Administration')
