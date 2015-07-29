@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-CreditLearning::Application.config.secret_token = 'e34fcfcb1b34a4369438992043ebed9af4724bf0f395e4068613f4c2f044060c73d1217e50aa66f48bc877e45c04173d4c18984161ea8de82d378ae908ecee7b'
+CreditLearning::Application.config.secret_token = 'c97984be883b826efae5814e72da24a0863f246df0635f391d9d593e58e842be8b5ff12d9bef222ad96fbe494a7ce0bc9868fa40614c9215c78e3b553361870d'
