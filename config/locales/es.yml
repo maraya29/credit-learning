@@ -11,3 +11,8 @@ es:
   default: "Por Defecto"
   back_to_top: "Ir arriba"
   sign_out: "Salir"
+  login: "Iniciar Sesión"
+  welcome: "Bienvenido a bla bla bla"
+  email: "Email"
+  password: "Contraseña"
+  warning: "Advertencia"

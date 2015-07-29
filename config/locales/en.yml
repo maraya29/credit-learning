@@ -11,3 +11,7 @@ en:
   default: "Default"
   back_to_top: "Back to top"
   sign_out: "Sign Out"
+  login: "Login"
+  welcome: "Welcome to bla bla bla"
+  email: "Email"
+  password: "Password"

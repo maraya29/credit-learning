@@ -2,7 +2,7 @@
     <div class="bs-example">
       <div class="alert alert-dismissable alert-danger">
         <button type="button" class="close" data-dismiss="alert">&times;</button>
-        <h4>Warning!</h4>
+        <h4><%=t :warning %>!</h4>
         <% target.errors.full_messages.each do |message| %>
         	<p><%= message %>.</p>
         <% end %>
