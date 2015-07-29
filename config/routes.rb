@@ -66,7 +66,9 @@ CreditLearning::Application.routes.draw do
   post 'login' => 'user_sessions#create'
   get  'logout' => 'user_sessions#destroy'
   
-  get 'default' => 'application#default'
+  get  'home' => 'application#index'
+  
+  get 'application/change_theme/:theme_name' => 'application#change_theme', :as => 'change_theme'
 
   root to: "user_sessions#new"
   

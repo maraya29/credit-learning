@@ -3,7 +3,7 @@ class UserSessionsController < ApplicationController
   before_action :require_user, :only => :destroy
 
   def new
-    redirect_back_or_default users_url if current_user
+    redirect_back_or_default home_url if current_user
     @user_session = UserSession.new
   end
 
@@ -11,7 +11,7 @@ class UserSessionsController < ApplicationController
     @user_session = UserSession.new(params[:user_session])
     if @user_session.save
       flash[:notice] = "Login successful!"
-      redirect_back_or_default default_url
+      redirect_back_or_default home_url
     else
       flash[:error] = "Invalid username or password. Please try again."
       render :action => :new

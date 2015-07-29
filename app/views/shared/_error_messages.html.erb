@@ -1,13 +1,11 @@
 <% if target.errors.any? %>
-<div id="error_explanation">
-	<h2><%= pluralize(target.errors.count, "error") %> prohibited from being saved:</h2>
-
-	<ul>
-		<% target.errors.full_messages.each do |message| %>
-		<li>
-			<%= message %>
-		</li>
-		<% end %>
-	</ul>
-</div>
+    <div class="bs-example">
+      <div class="alert alert-dismissable alert-danger">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <h4>Warning!</h4>
+        <% target.errors.full_messages.each do |message| %>
+        	<p><%= message %>.</p>
+        <% end %>
+      </div>
+    </div>
 <% end %>

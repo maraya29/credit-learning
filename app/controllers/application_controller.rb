@@ -4,17 +4,27 @@ class ApplicationController < ActionController::Base
   before_action :set_locale
   before_action :require_user
   
+  def change_theme
+    if params[:theme_name].present?
+      current_user.default_theme = params[:theme_name]
+      current_user.save
+    end
+    render :index
+  end
+  
+  private
+  
   def set_locale
     I18n.locale = extract_locale_from_accept_language_header
   end
   
+  def index; end
+  
   def default_theme
-    return current_user.default_theme.downcase if current_user.present?
+    return current_user.default_theme if current_user.present?
     'default'
   end
   
-  private
-
   def extract_locale_from_accept_language_header
     request.env['HTTP_ACCEPT_LANGUAGE'].scan(/^[a-z]{2}/).first
   end
