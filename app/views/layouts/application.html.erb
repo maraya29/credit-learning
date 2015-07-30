@@ -18,9 +18,7 @@
 
   </head>
   <body>
-  	<% if current_user.present? %>
-		<%= render :partial => "shared/header" %>
-	<% end %>
+	<%= render :partial => "shared/header" %>
 	<div class="container">
 	    <%= yield %>
 	    <% if current_user.present? %>

@@ -1,34 +1,32 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery
   helper_method :current_user_session, :current_user, :logout_app, :default_theme
-  before_action :set_locale
-  before_action :require_user
+  before_action :require_user, :except => [:change_theme, :set_locale]
   
   def change_theme
-    if params[:theme_name].present?
+    if current_user.present? && params[:theme_name].present?
       current_user.default_theme = params[:theme_name]
       current_user.save
+    else
+      cookies[:default_theme] = params[:theme_name]
     end
-    render :index
+    redirect_to root_url
+  end
+  
+  def set_locale
+    I18n.locale = params[:lenguaje]
+    redirect_to root_url
   end
   
   private
-  
-  def set_locale
-    I18n.locale = extract_locale_from_accept_language_header
-  end
   
   def index; end
   
   def default_theme
     return current_user.default_theme if current_user.present?
-    'default'
+    cookies[:default_theme]
   end
   
-  def extract_locale_from_accept_language_header
-    request.env['HTTP_ACCEPT_LANGUAGE'].scan(/^[a-z]{2}/).first
-  end
-
   def logout_app
     logout_url
   end

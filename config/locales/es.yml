@@ -16,3 +16,6 @@ es:
   email: "Email"
   password: "Contraseña"
   warning: "Advertencia"
+  lenguajes: "Idiomas"
+  english: "Inglés"
+  spanish: "Español"

@@ -10,6 +10,7 @@
 		</div>
 		<div class="navbar-collapse collapse">
 			<ul class="nav navbar-nav">
+				<% if current_user.present? %>
 				<li class="active">
 					<a href="/"><%= t :home %></a>
 				</li>
@@ -43,10 +44,24 @@
 						</li>
 					</ul>
 				</li>
+				<% end %>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
+				<% if current_user.present? %>
 				<li>
 					<%= link_to t(:sign_out), logout_app %>
+				</li>
+				<% end %>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown"><%= t :lenguajes %><b class="caret"></b></a>
+					<ul class="dropdown-menu">
+						<li>
+							<%= link_to t(:english), set_locale_path(:lenguaje => 'en') %>
+						</li>
+						<li>
+							<%= link_to t(:spanish), set_locale_path(:lenguaje => 'es') %>
+						</li>
+					</ul>
 				</li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown"><%= t :themes %><b class="caret"></b></a>

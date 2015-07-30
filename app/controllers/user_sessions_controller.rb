@@ -3,6 +3,7 @@ class UserSessionsController < ApplicationController
   before_action :require_user, :only => :destroy
 
   def new
+    cookies[:default_theme] = 'default' if cookies[:default_theme].blank?
     redirect_back_or_default home_url if current_user
     @user_session = UserSession.new
   end
@@ -19,6 +20,7 @@ class UserSessionsController < ApplicationController
   end
 
   def destroy
+    cookies.delete :default_theme
     current_user_session.destroy
     session.destroy
     flash[:notice] = "Logout successful!"
