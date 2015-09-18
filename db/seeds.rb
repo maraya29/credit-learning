@@ -32,6 +32,6 @@ user.attributes = {
   :password              => 'bar-b-queue',
   :password_confirmation => 'bar-b-queue',
   :default_theme         => 'superhero',
-  :role                  => Role.find_by_name('Administrator')
+  :role_id               => Role.find_by_name('Administrator').id
 }
 user.save(validate: false)
