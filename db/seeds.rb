@@ -5,18 +5,6 @@
 #
 #   cities = City.create([{ :name => 'Chicago' }, { :name => 'Copenhagen' }])
 #   Mayor.create(:name => 'Daley', :city => cities.first)
-email='maraya@growthaccelerationpartners.com'
-user = User.where(:email => email).first || User.new
-user.attributes = {
-  :first_name            => 'Admin',
-  :last_name             => 'User',
-  :email                 => email,
-  :password              => 'bar-b-queue',
-  :password_confirmation => 'bar-b-queue',
-  :default_theme         => 'superhero',
-  :role                  => Role.find_by_name('Administrator')
-}
-user.save(validate: false)
 
 #features
 role_feature_name = 'Administration'
@@ -33,3 +21,17 @@ role.attributes = {
 }
 puts role.save ? "Role loaded: #{role_name}" : "Role load failed: #{role_name}"
 role.add_feature('Administration')
+
+
+email='maraya@growthaccelerationpartners.com'
+user = User.where(:email => email).first || User.new
+user.attributes = {
+  :first_name            => 'Admin',
+  :last_name             => 'User',
+  :email                 => email,
+  :password              => 'bar-b-queue',
+  :password_confirmation => 'bar-b-queue',
+  :default_theme         => 'superhero',
+  :role                  => Role.find_by_name('Administrator')
+}
+user.save(validate: false)
