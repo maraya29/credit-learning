@@ -21,6 +21,7 @@ gem 'therubyracer'
 gem 'twitter-bootswatch-rails', '~> 3.3.2'
 gem 'twitter-bootswatch-rails-fontawesome'
 gem 'puma'
+gem 'turbolinks'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
