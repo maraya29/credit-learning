@@ -84,6 +84,6 @@ test:
 #
 production:
   <<: *default
-  database: credit_learning_production
+  database: credit_learning_prd
   username: credit_learning
-  password:
+  password: root

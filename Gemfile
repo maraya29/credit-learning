@@ -20,6 +20,7 @@ gem 'less-rails'
 gem 'therubyracer'
 gem 'twitter-bootswatch-rails', '~> 3.3.2'
 gem 'twitter-bootswatch-rails-fontawesome'
+gem 'puma'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
@@ -36,4 +37,11 @@ group :development, :test do
 
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
+  
+  gem 'capistrano',         require: false
+  gem 'capistrano-rvm',     require: false
+  gem 'capistrano-rails',   require: false
+  gem 'capistrano-bundler', require: false
+  gem 'capistrano3-puma',   require: false
+  gem 'capistrano-passenger',   require: false
 end
